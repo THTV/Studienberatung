@@ -7,6 +7,10 @@ public class Studienberatung {
 		if(answer.equals("no") {
 			System.out.println("Hast du Fachabitur?");
 			String answer2 = scanner.next();
+			
+			if(answer2.equals("yes"){
+				System.out.println("Hast du eine Berufsausbildung?");
+			}
 		}
 	}
 }
