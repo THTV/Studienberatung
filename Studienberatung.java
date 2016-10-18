@@ -8,5 +8,8 @@ public class Studienberatung {
 			System.out.println("Hast du Fachabitur?");
 			String answer2 = scanner.next();
 		}
+		if(answer.equals("yes"){
+			System.out.println("Bist du wissbegierig?")
+		}
 	}
 }
